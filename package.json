@@ -2,7 +2,7 @@
   "name": "goit-react-hw-07-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Dimity995.github.io/goit-react-hw-07-phonebook",
+  "homepage": "https://Dimitry995.github.io/goit-react-hw-07-phonebook",
   "pre": "npm run deploy",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
